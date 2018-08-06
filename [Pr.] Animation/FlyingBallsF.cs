@@ -16,6 +16,7 @@ namespace _Pr.__Animation
         private SolidBrush br = new SolidBrush(Color.Red);
         private Rectangle r;
         private Timer tmr = new Timer();
+
         public FlyingBallsF()
         {
             InitializeComponent();
